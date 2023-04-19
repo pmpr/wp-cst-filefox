@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filefox Custom Pmpr\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-04-14 11:53+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: build\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: asset\n"
+"X-Poedit-SearchPathExcluded-4: build\n"
+
+#: src/Pmpr/Custom/Filefox/CTX/Application.php:18
+msgid "Applications"
+msgstr "کاربردها"
+
+#: src/Pmpr/Custom/Filefox/CTX/Application.php:19
+msgid "Application"
+msgstr "کاربرد"
+
+#: src/Pmpr/Custom/Filefox/CTX/Application.php:20
+msgid "Application for products"
+msgstr "کاربر برای محصولات"
+
+#: src/Pmpr/Custom/Filefox/CTX/Category.php:27
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:19
+msgid "Material"
+msgstr "ماهیت"
+
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:18
+msgid "Materials"
+msgstr "ماهیت‌ها"
+
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:20
+msgid "Material for products"
+msgstr "ماهیت برای محصولات"
+
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:29
+#: src/Pmpr/Custom/Filefox/CTX/Medium.php:19
+msgid "Medium"
+msgstr "رسانه"
+
+#: src/Pmpr/Custom/Filefox/CTX/Medium.php:18
+msgid "Mediums"
+msgstr "رسانه‌ها"
+
+#: src/Pmpr/Custom/Filefox/CTX/Medium.php:20
+msgid "Medium for products"
+msgstr "رسانه برای محصولات"
+
+#: src/Pmpr/Custom/Filefox/CTX/Subject.php:18
+msgid "Subjects"
+msgstr "موضوعات"
+
+#: src/Pmpr/Custom/Filefox/CTX/Subject.php:19
+msgid "Subject"
+msgstr "موضوع"
+
+#: src/Pmpr/Custom/Filefox/CTX/Subject.php:20
+msgid "Subject for products"
+msgstr "موضوغع برای محصولات"
+
+#: src/Pmpr/Custom/Filefox/CTX/Subject.php:29
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: src/Pmpr/Custom/Filefox/Filefox.php:21
+msgid "Filefox Custom"
+msgstr "سفارشی فایل فاکس"
+

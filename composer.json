@@ -1,0 +1,25 @@
+{
+  "name": "pmpr-cst/wp-cst-filefox",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Filefox Project Custom Logics",
+  "keywords": [
+    "wordpress",
+    "package",
+    "filefox"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "~1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Custom\\Filefox\\": "src/Pmpr/Custom/Filefox"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "version": "1.0.0"
+}
