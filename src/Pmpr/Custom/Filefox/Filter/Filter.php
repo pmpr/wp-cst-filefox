@@ -4,4 +4,4 @@
     |             6448ec21453e8             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\CTX; use Pmpr\Common\Foundation\CTX; use Pmpr\Custom\Filefox\Interfaces\CommonInterface; abstract class Common extends CTX implements CommonInterface { }
+ namespace Pmpr\Custom\Filefox\Filter; class Filter extends Common { }
