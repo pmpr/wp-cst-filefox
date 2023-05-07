@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filefox Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-04-14 11:53+0330\n"
+"POT-Creation-Date: 2023-05-07 11:19+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -26,35 +26,56 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-3: asset\n"
 "X-Poedit-SearchPathExcluded-4: build\n"
 
-#: src/Pmpr/Custom/Filefox/CTX/Application.php:18
-msgid "Applications"
-msgstr "کاربردها"
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:168
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:346
+#: src/Pmpr/Custom/Filefox/CTX/Category.php:106
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:20
+msgid "Material"
+msgstr "ماهیت"
 
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:169
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:337
 #: src/Pmpr/Custom/Filefox/CTX/Application.php:19
 msgid "Application"
 msgstr "کاربرد"
+
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:315
+msgid "Taxonomies"
+msgstr "طبقه‌بندی‌ها"
+
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:345
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:28
+#: src/Pmpr/Custom/Filefox/CTX/Medium.php:19
+msgid "Medium"
+msgstr "رسانه"
+
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:347
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:416
+msgid "Parent"
+msgstr "مادر"
+
+#: src/Pmpr/Custom/Filefox/CPT/Product.php:423
+msgid "Order"
+msgstr "ترتیب"
+
+#: src/Pmpr/Custom/Filefox/CTX/Application.php:18
+msgid "Applications"
+msgstr "کاربردها"
 
 #: src/Pmpr/Custom/Filefox/CTX/Application.php:20
 msgid "Application for products"
 msgstr "کاربر برای محصولات"
 
-#: src/Pmpr/Custom/Filefox/CTX/Category.php:27
 #: src/Pmpr/Custom/Filefox/CTX/Material.php:19
-msgid "Material"
-msgstr "ماهیت"
-
-#: src/Pmpr/Custom/Filefox/CTX/Material.php:18
 msgid "Materials"
 msgstr "ماهیت‌ها"
 
-#: src/Pmpr/Custom/Filefox/CTX/Material.php:20
+#: src/Pmpr/Custom/Filefox/CTX/Material.php:21
 msgid "Material for products"
 msgstr "ماهیت برای محصولات"
-
-#: src/Pmpr/Custom/Filefox/CTX/Material.php:29
-#: src/Pmpr/Custom/Filefox/CTX/Medium.php:19
-msgid "Medium"
-msgstr "رسانه"
 
 #: src/Pmpr/Custom/Filefox/CTX/Medium.php:18
 msgid "Mediums"
@@ -64,23 +85,42 @@ msgstr "رسانه‌ها"
 msgid "Medium for products"
 msgstr "رسانه برای محصولات"
 
-#: src/Pmpr/Custom/Filefox/CTX/Subject.php:18
-msgid "Subjects"
-msgstr "موضوعات"
-
-#: src/Pmpr/Custom/Filefox/CTX/Subject.php:19
-msgid "Subject"
-msgstr "موضوع"
-
-#: src/Pmpr/Custom/Filefox/CTX/Subject.php:20
-msgid "Subject for products"
-msgstr "موضوغع برای محصولات"
-
-#: src/Pmpr/Custom/Filefox/CTX/Subject.php:29
-msgid "Category"
-msgstr "دسته‌بندی"
-
 #: src/Pmpr/Custom/Filefox/Filefox.php:21
 msgid "Filefox Custom"
 msgstr "سفارشی فایل فاکس"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:24
+msgid "Custom Setting"
+msgstr "تنظیمات سفارشی"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:36
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:38
+msgid "WooCommerce Configuration"
+msgstr "پیکربندی ووکامرس"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:41
+msgid "Subdomain"
+msgstr "ساب‌دامین"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:45
+msgid "Taxonomy"
+msgstr "طبقه‌بندی"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:46
+msgid "Determine which taxonomy used as subdomain."
+msgstr ""
+"مشخص کنید کدام نوع طبقه‌بندی به عنوان ساب‌دامین مورد استفاده قرار "
+"گیرد."
+
+#~ msgid "Subjects"
+#~ msgstr "موضوعات"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Subject for products"
+#~ msgstr "موضوغع برای محصولات"
 
