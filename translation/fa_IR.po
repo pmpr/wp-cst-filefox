@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filefox Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-05-07 11:19+0330\n"
+"POT-Creation-Date: 2023-05-07 16:36+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -13,10 +13,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
 "X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
-"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
-"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -85,35 +84,59 @@ msgstr "رسانه‌ها"
 msgid "Medium for products"
 msgstr "رسانه برای محصولات"
 
-#: src/Pmpr/Custom/Filefox/Filefox.php:21
+#: src/Pmpr/Custom/Filefox/Filefox.php:23
 msgid "Filefox Custom"
 msgstr "سفارشی فایل فاکس"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:24
+#: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:25
+msgid "Download"
+msgstr "دانلود"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:25
 msgid "Custom Setting"
 msgstr "تنظیمات سفارشی"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:36
+#: src/Pmpr/Custom/Filefox/Setting.php:37
 msgid "WooCommerce"
 msgstr "ووکامرس"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:38
+#: src/Pmpr/Custom/Filefox/Setting.php:39
 msgid "WooCommerce Configuration"
 msgstr "پیکربندی ووکامرس"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:41
+#: src/Pmpr/Custom/Filefox/Setting.php:42
 msgid "Subdomain"
 msgstr "ساب‌دامین"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:45
+#: src/Pmpr/Custom/Filefox/Setting.php:46
 msgid "Taxonomy"
 msgstr "طبقه‌بندی"
 
-#: src/Pmpr/Custom/Filefox/Setting.php:46
+#: src/Pmpr/Custom/Filefox/Setting.php:47
 msgid "Determine which taxonomy used as subdomain."
-msgstr ""
-"مشخص کنید کدام نوع طبقه‌بندی به عنوان ساب‌دامین مورد استفاده قرار "
-"گیرد."
+msgstr "مشخص کنید کدام نوع طبقه‌بندی به عنوان ساب‌دامین مورد استفاده قرار گیرد."
+
+#: src/Pmpr/Custom/Filefox/Setting.php:52
+msgid "Download List"
+msgstr "لیست دانلود"
+
+#: src/Pmpr/Custom/Filefox/Setting.php:56
+msgid "Download Title"
+msgstr "عنوان دانلود"
+
+#: src/Pmpr/Custom/Filefox/Woocommerce/Single.php:63
+msgid "Downloads"
+msgstr "دانلود‌ها"
+
+#: src/Pmpr/Custom/Filefox/Woocommerce/Single.php:132
+#, php-format
+msgid "Download %s"
+msgstr "دانلود %s"
+
+#: src/Pmpr/Custom/Filefox/Woocommerce/Single.php:151
+#, php-format
+msgid "%s times downloaded"
+msgstr "%s بار دانلود شده"
 
 #~ msgid "Subjects"
 #~ msgstr "موضوعات"
