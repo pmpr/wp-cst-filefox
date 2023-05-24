@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filefox Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-05-21 12:08+0330\n"
+"POT-Creation-Date: 2023-05-23 15:08+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -84,7 +84,7 @@ msgstr "رسانه‌ها"
 msgid "Medium for products"
 msgstr "رسانه برای محصولات"
 
-#: src/Pmpr/Custom/Filefox/Filefox.php:23
+#: src/Pmpr/Custom/Filefox/Filefox.php:24
 msgid "Filefox Custom"
 msgstr "سفارشی فایل فاکس"
 
@@ -118,9 +118,9 @@ msgstr "شروع دانلود"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:32
 msgid "Submit Request"
-msgstr "ثبت درخوست"
+msgstr "ثبت دراخوست"
 
-#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:33
+#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:37
 msgid "Track Request"
 msgstr "پیگیری درخواست"
 
