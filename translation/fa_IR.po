@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filefox Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-05-23 15:08+0330\n"
+"POT-Creation-Date: 2023-05-28 18:52+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -94,11 +94,11 @@ msgstr "نیاز به خرید."
 
 #: src/Pmpr/Custom/Filefox/Frontend/Ajax.php:54
 msgid "can not download requested file."
-msgstr ""
+msgstr "قادر به  دانلود فایل درخواستی نیستیم."
 
 #: src/Pmpr/Custom/Filefox/Frontend/Ajax.php:58
 msgid "Can not find requested file."
-msgstr ""
+msgstr "قادر به یافتن فایل درخواستی نیستیم."
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:34
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:178
@@ -109,7 +109,7 @@ msgstr "دانلود"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:119
 msgid "File parameter missing."
-msgstr ""
+msgstr "پارامتر ضروری ارائه نشده‌اند."
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:176
 #: src/Pmpr/Custom/Filefox/Setting.php:76
@@ -117,12 +117,12 @@ msgid "Start Download"
 msgstr "شروع دانلود"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:32
-msgid "Submit Request"
-msgstr "ثبت دراخوست"
-
-#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:37
 msgid "Track Request"
 msgstr "پیگیری درخواست"
+
+#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:34
+msgid "Submit Request"
+msgstr "ثبت دراخوست"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Request.php:26
 msgid "Request"
@@ -230,7 +230,7 @@ msgstr "ثانیه"
 
 #: src/Pmpr/Custom/Filefox/Setting.php:123
 msgid "Waiting Message"
-msgstr ""
+msgstr "پیام انتظار"
 
 #: src/Pmpr/Custom/Filefox/Setting.php:130
 msgid "WooCommerce"
@@ -259,6 +259,18 @@ msgstr "لیست دانلود"
 #: src/Pmpr/Custom/Filefox/Setting.php:149
 msgid "Download Title"
 msgstr "عنوان دانلود"
+
+#: src/Pmpr/Custom/Filefox/Ticket/Ajax.php:58
+msgid "Something wrong, please try again or contact us."
+msgstr "مشکلی وجود دارد، لطفاً دوباره امتحان کنید یا با ما تماس بگیرید."
+
+#: src/Pmpr/Custom/Filefox/Ticket/Ticket.php:36
+msgid "File Request"
+msgstr "درخواست فایل"
+
+#: src/Pmpr/Custom/Filefox/Ticket/Ticket.php:42
+msgid "File Provide"
+msgstr "ارائه فایل"
 
 #: src/Pmpr/Custom/Filefox/Woocommerce/Single.php:63
 msgid "Downloads"
