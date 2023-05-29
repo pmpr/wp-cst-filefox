@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             647490c92e218             |
+    |             6474c5273fce2             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Interfaces; interface CommonInterface { const MEDIUM = "\155\x65\144\151\x75\x6d"; const oeeqisiiqoswqqmy = "\x6d\x61\x74\x65\x72\151\x61\154"; const syuccqmowioeosuc = "\141\160\160\x6c\x69\x63\141\x74\151\157\156"; const wygwikaqsmcmosas = "\x64\x6f\167\156\x6c\157\141\144\137\156\157\x6e\143\x65"; const cgmyyekauckqmwyg = self::wygwikaqsmcmosas . "\x61\143\x74\151\x6f\156"; }
+ namespace Pmpr\Custom\Filefox\Interfaces; interface CommonInterface { const MEDIUM = "\x6d\x65\x64\x69\165\155"; const oeeqisiiqoswqqmy = "\155\x61\164\x65\x72\x69\x61\154"; const syuccqmowioeosuc = "\x61\160\160\x6c\x69\x63\x61\164\151\x6f\x6e"; const wygwikaqsmcmosas = "\144\157\167\x6e\154\157\141\x64\137\156\157\156\x63\145"; const cgmyyekauckqmwyg = self::wygwikaqsmcmosas . "\x61\143\x74\x69\157\x6e"; }
