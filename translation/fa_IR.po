@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filefox Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-05-28 18:52+0330\n"
+"POT-Creation-Date: 2023-05-29 11:07+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -102,7 +102,6 @@ msgstr "قادر به یافتن فایل درخواستی نیستیم."
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:34
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Download.php:178
-#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:22
 #: src/Pmpr/Custom/Filefox/Setting.php:66
 msgid "Download"
 msgstr "دانلود"
@@ -115,6 +114,10 @@ msgstr "پارامتر ضروری ارائه نشده‌اند."
 #: src/Pmpr/Custom/Filefox/Setting.php:76
 msgid "Start Download"
 msgstr "شروع دانلود"
+
+#: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:22
+msgid "Request File"
+msgstr "درخواست فایل"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Download.php:32
 msgid "Track Request"
@@ -129,8 +132,8 @@ msgid "Request"
 msgstr "درخواست"
 
 #: src/Pmpr/Custom/Filefox/Frontend/Page/Request/Upload.php:22
-msgid "Upload"
-msgstr "آپلود"
+msgid "Provide File"
+msgstr "ارائه فایل"
 
 #: src/Pmpr/Custom/Filefox/Setting.php:43
 msgid "Custom Setting"
@@ -285,6 +288,9 @@ msgstr "دانلود %s"
 #, php-format
 msgid "%s times downloaded"
 msgstr "%s بار دانلود شده"
+
+#~ msgid "Upload"
+#~ msgstr "آپلود"
 
 #~ msgid "Submit"
 #~ msgstr "تایید"
