@@ -4,4 +4,4 @@
     |             6484a13036be0             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\CPT; use Pmpr\Common\Foundation\CPT; abstract class Common extends CPT { }
+ namespace Pmpr\Custom\Filefox\Storage; class Process { }
