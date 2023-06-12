@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6484a13036be0             |
+    |             64872728d27d5             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Filefox\CPT; use Pmpr\Custom\Filefox\Container; class CPT extends Container { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { Product::symcgieuakksimmu(); } }
