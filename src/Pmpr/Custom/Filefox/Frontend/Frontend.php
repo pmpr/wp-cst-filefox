@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             65195dbf28615             |
+    |             653e6aafefa58             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Frontend; use Pmpr\Custom\Filefox\Frontend\Page\Page; class Frontend extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { Ajax::symcgieuakksimmu(); Page::symcgieuakksimmu(); } }
+ namespace Pmpr\Custom\Filefox\Frontend; use Pmpr\Custom\Filefox\Frontend\Page\Page; class Frontend extends Common { public function mameiwsayuyquoeq() { Ajax::symcgieuakksimmu(); Page::symcgieuakksimmu(); } }
