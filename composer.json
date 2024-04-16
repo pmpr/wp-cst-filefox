@@ -13,6 +13,11 @@
     "spatie/dropbox-api": "1.21.2",
     "pmpr-cmn/wp-cmn-foundation": "~1.4"
   },
+  "prod-require": {
+    "php": "7.4",
+    "wordpress": "6.0",
+    "wp-cmn-foundation": "latest"
+  },
   "autoload": {
     "psr-4": {
       "Pmpr\\Custom\\Filefox\\": "src/Pmpr/Custom/Filefox"
@@ -22,5 +27,5 @@
     ]
   },
   "minimum-stability": "dev",
-  "tag": "1.0.40"
+  "tag": "1.0.41"
 }
