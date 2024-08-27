@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cb56af5ccaf             |
+    |             66ce115460383             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Frontend\Page; use Pmpr\Common\Foundation\Page\Page; use Pmpr\Custom\Filefox\Interfaces\CommonInterface; abstract class Common extends Page implements CommonInterface { }
+ namespace Pmpr\Custom\Filefox\Frontend\Page; use Pmpr\Common\Foundation\Page\Page; abstract class Common extends Page { }
