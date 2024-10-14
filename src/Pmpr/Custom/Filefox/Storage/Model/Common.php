@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66eae86629acc             |
+    |             670d4a90c63fb             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Storage\Model; use Pmpr\Common\Foundation\ORM\DB\Model as BaseClass; abstract class Common extends BaseClass { public function ckgmycmaukqgkosk() { $wksoawcgagcgoask = $this->akuociswqmoigkas(); $this->oyeskqayoscwciem()->myysgyqcumekoueo()->okgmqaeuaeymaocm($wksoawcgagcgoask)->wiskakymeaywyeuw($wksoawcgagcgoask); parent::ckgmycmaukqgkosk(); } }
+ namespace Pmpr\Custom\Filefox\Storage\Model; use Pmpr\Common\Foundation\ORM\Model; abstract class Common extends Model { }
