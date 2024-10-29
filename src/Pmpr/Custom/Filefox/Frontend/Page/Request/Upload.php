@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             670d4a90c63fb             |
+    |             6720b6c461fd0             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Frontend\Page\Request; use Pmpr\Common\Foundation\Interfaces\Constants; class Upload extends Common { public function __construct() { $this->slug = Constants::qikaiaaocseouyaw; parent::__construct(); } public function gogaagekwoisaqgu() { $this->title = __("\120\x72\x6f\x76\x69\x64\145\40\106\x69\154\145", PR__CST__FILEFOX); parent::gogaagekwoisaqgu(); } }
+ namespace Pmpr\Custom\Filefox\Frontend\Page\Request; use Pmpr\Common\Foundation\Interfaces\Constants; class Upload extends Common { public function __construct() { $this->slug = Constants::qikaiaaocseouyaw; parent::__construct(); } public function gogaagekwoisaqgu() { $this->title = __("\120\162\x6f\x76\x69\144\x65\x20\x46\151\x6c\x65", PR__CST__FILEFOX); parent::gogaagekwoisaqgu(); } }
