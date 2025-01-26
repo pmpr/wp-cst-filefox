@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6795527fa4f73             |
+    |             6796bb890f96f             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Filefox\Panel\Controller; class Team extends Controller { }
