@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             67abce8e71656             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Custom\Filefox\Salary\Model; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Common\Foundation\Interfaces\IconInterface; use Pmpr\Common\Foundation\ORM\Model; use Pmpr\Module\Salary\Model\Request; class PostOwner extends Model { const mwisuqgywiccyykw = "\x74\x65\141\x6d\x5f\x69\x64"; const cmiegiycgiucucgs = "\x72\145\161\165\x65\163\x74\x5f\x69\x64"; public function register() { $this->saemoowcasogykak(IconInterface::quowqmuiikukkkay)->guiaswksukmgageq(__("\x50\x6f\163\x74\40\117\x77\156\x65\162\x73", PR__CST__FILEFOX))->muuwuqssqkaieqge(__("\120\157\163\x74\163\40\117\167\156\x65\162\163", PR__CST__FILEFOX)); } public function uwmqacgewuauagai() { $eqwoegegiamegqsm = $this->caokeucsksukesyo()->skckwsgymkimyuwo(); $this->cquokmemekqqywgi($eqwoegegiamegqsm->qoemykoeuecmsmwe(Constants::kqigmeickowqiiyy)->gswweykyogmsyawy(__("\x50\157\163\164", PR__CST__FILEFOX))->acceqyqygswoecwe(10))->cquokmemekqqywgi($eqwoegegiamegqsm->eoaomaokwkwqyqiq(self::mwisuqgywiccyykw)->gswweykyogmsyawy(__("\x54\x65\x61\155", PR__CST__FILEFOX))->wuuqgaekqeymecag(Team::class))->cquokmemekqqywgi($eqwoegegiamegqsm->eoaomaokwkwqyqiq(self::cmiegiycgiucucgs)->gswweykyogmsyawy(__("\x52\145\x71\165\x65\163\x74", PR__CST__FILEFOX))->wuuqgaekqeymecag(Request::class)); } }
