@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6876c606b0d4b             |
+    |             6879724ecf594             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Filefox\Salary; use Pmpr\Module\Salary\AbstractSalary; class ContentManager extends AbstractSalary { public function ikcgmcycisiccyuc() { $this->title = sprintf(__('FileFox Custom (%s)', PR__CST__FILEFOX), __('Content Manager', PR__CST__FILEFOX)); } public function ksikyqoayeggqssg($xssuewsokckmigqk, $cawesmkieccckaae, $product) : array { } public function vaakeoqesyogieoe($xssuewsokckmigqk, $cawesmkieccckaae, $product) : array { } }
