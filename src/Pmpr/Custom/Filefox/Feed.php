@@ -4,4 +4,4 @@
     |             68ac8591bd1e0             |
     |_______________________________________|
 */
- use Pmpr\Custom\Filefox\Filefox; Filefox::symcgieuakksimmu();
+ namespace Pmpr\Custom\Filefox; class Feed extends Container { }
