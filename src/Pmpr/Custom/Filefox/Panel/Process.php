@@ -4,4 +4,4 @@
     |             68cc71d1b0f27             |
     |_______________________________________|
 */
- use Pmpr\Custom\Filefox\Filefox; Filefox::symcgieuakksimmu();
+ namespace Pmpr\Custom\Filefox\Panel; use Pmpr\Common\Foundation\Process\Queue; class Process extends Queue { }

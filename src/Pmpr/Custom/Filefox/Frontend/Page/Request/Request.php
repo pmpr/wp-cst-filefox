@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68c2b5d81110c             |
+    |             68cc71d1b0f27             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Filefox\Frontend\Page\Request; use Pmpr\Common\Foundation\Frontend\Page; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Custom\Filefox\Setting\Setting; class Request extends Page { public function qiccuiwooiquycsg() { $this->wegcaymyqqoyewmw(Constants::qgeesceacsmeqacu)->gswweykyogmsyawy(__('Request', PR__CST__FILEFOX))->wmsaakuicamguoam($this->weysguygiseoukqw(Setting::wiqyuskqsguiamau)); } }
+ namespace Pmpr\Custom\Filefox\Frontend\Page\Request; use Pmpr\Common\Foundation\Frontend\Page; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Custom\Filefox\Setting\Setting; class Request extends Page { public function qiccuiwooiquycsg() { $this->wegcaymyqqoyewmw(Constants::qgeesceacsmeqacu)->gswweykyogmsyawy(__('Request', PR__CST__FILEFOX))->wmsaakuicamguoam($this->weysguygiseoukqw(Setting::wiqyuskqsguiamau)); parent::qiccuiwooiquycsg(); } }
